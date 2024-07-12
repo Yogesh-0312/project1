@@ -18,7 +18,7 @@ class project2{
     //    await browser.pause(2000)
        await this.login.setValue(loginvalue);
        await this.password.setValue(pwvalue);
-
+       
 
     }
 }
