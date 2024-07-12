@@ -1,0 +1,13 @@
+{
+    "usn":"student" ,
+    "psw":"Password123"
+  ,
+
+     "loginUNval" :"strange@gmail.com",
+     "passval"  : "Strange@123"
+     ,
+     
+
+     "loginvalue":"test@gmail.com",
+     "pwvalue":"Test@123"
+}
